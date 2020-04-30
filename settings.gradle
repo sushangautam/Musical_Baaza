@@ -1,0 +1,2 @@
+rootProject.name='Musical Baaza'
+include ':app'
